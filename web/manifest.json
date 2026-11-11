@@ -1,0 +1,35 @@
+{
+    "name": "WildGuard — Endangered Species Gallery",
+    "short_name": "WildGuard",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#1B4332",
+    "theme_color": "#1B4332",
+    "description": "WildGuard — Endangered Species Gallery & Wildlife Conservation",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
